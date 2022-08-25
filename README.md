@@ -1,2 +1,2 @@
 # BlackJack
-An interactive Blackjack game.
+An interactive Blackjack game created using Python.
