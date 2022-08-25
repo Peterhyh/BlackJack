@@ -1,4 +1,4 @@
-# Blackjack
+# Blackjack Game
 
 An interactive Blackjack game created using Python.
 
